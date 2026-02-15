@@ -1,0 +1,2 @@
+C:\Users\RBTG V2\Documents\GitHub\NumberSnakeGame_Assignment\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\RBTG V2\Documents\GitHub\NumberSnakeGame_Assignment\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

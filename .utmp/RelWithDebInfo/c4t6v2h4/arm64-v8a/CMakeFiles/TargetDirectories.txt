@@ -1,0 +1,5 @@
+C:/Users/RBTG V2/Documents/GitHub/NumberSnakeGame_Assignment/.utmp/RelWithDebInfo/c4t6v2h4/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/RBTG V2/Documents/GitHub/NumberSnakeGame_Assignment/.utmp/RelWithDebInfo/c4t6v2h4/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/RBTG V2/Documents/GitHub/NumberSnakeGame_Assignment/.utmp/RelWithDebInfo/c4t6v2h4/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/RBTG V2/Documents/GitHub/NumberSnakeGame_Assignment/.utmp/RelWithDebInfo/c4t6v2h4/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/RBTG V2/Documents/GitHub/NumberSnakeGame_Assignment/.utmp/RelWithDebInfo/c4t6v2h4/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
